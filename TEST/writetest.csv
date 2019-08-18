@@ -5,10 +5,10 @@ a3,b3
 a5,
 
 test escaping end quotes
-"a8"
-"a9","b9"
-,"b10"
-"b11",
+a8
+a9,b9
+,b10
+b11,
 
 test escaping mid characters
 "a14""a14"
